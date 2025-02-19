@@ -1,5 +1,5 @@
-setwd("C:/Users/Khushi/OneDrive/Desktop/Project1Patents-main")
-patents=read.csv("patents_1.csv",na.strings = "", header = TRUE)
+setwd("C:/path/...")
+patents=read.csv("patentdata.csv",na.strings = "", header = TRUE)
 head(patents)
 View(patents)
 
